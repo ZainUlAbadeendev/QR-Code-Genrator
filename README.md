@@ -7,3 +7,8 @@ Our user-friendly interface makes it simple for anyone to generate QR codes in j
 Whether you're a business looking to streamline your marketing efforts, an event organizer wanting to provide convenient access to information, or an individual looking to share content in a modern and efficient way, our QR code generation web application has you covered.
 
 And with our commitment to security and reliability, you can trust that your QR codes will be generated quickly and accurately every time. So why wait? Start creating your custom QR codes today and unlock a world of possibilities!"
+
+  <img src="img/QR Code Gen.png">
+
+  
+  <img src="img/Generated.png">
