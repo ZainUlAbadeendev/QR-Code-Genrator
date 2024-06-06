@@ -1,4 +1,4 @@
-Introducing a QR code generation web application:
+Introducing a QR code generation web application.
 
 "Welcome to our QR code generation web application! With our platform, you can easily create QR codes for various purposes, whether it's for linking to a website, sharing contact information, providing Wi-Fi access details, or any other use case you can imagine.
 
